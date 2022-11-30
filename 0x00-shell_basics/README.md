@@ -35,3 +35,9 @@ NB: Before running any scripts please execute the command below for each respect
 		- you will need to execute the code below to test the script
 			./4-listmorefiles
 
+	5-listfilesdigitonly
+		- this script list the files and directories in a long format including hidden files with user and group IDs displayed numerically
+		- run the command above before runing the script as stated in NB
+		- you will need to execute the code below to test the script 
+			./5-listfilesdigitonly
+
