@@ -114,3 +114,9 @@ NB: Before running any scripts please execute the command below for each respect
 		- you will need to execute the code below to test the script
 			./102-tree
 
+	103-commas
+		- this script will list the items in the directory in order and seperated by commas and will also include hidden files
+		- run tis command above before running the scripts as stated in NB
+		- you will need to execute teh code below to test the script
+			./103-commas
+
