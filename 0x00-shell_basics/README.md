@@ -65,3 +65,9 @@ NB: Before running any scripts please execute the command below for each respect
 		- you will need to execute the code below to test the script
 			./9-firstdirdeletion
 
+	10-back
+		- this script will change the working directory to the previous one
+		- run the command above before running the script as stated in NB
+		- you will need to execute teh code below to test the script
+			./10-back
+
