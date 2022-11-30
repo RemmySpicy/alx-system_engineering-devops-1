@@ -98,7 +98,13 @@ NB: Before running any scripts please execute the command below for each respect
 
 	100-lets_move
 		- this script will move all the files beginning with an uppercase letter to a folder called u in the tmp folder in the root 
-		- run the command above before running the script as staed in NB
+		- run the command above before running the script as stated in NB
 		- you will need to execute the code below to test the script
 			./100-lets_move
+	
+	101-clean_emacs
+		- this script will move all the files ending with a character ~ in the current working directory
+		- run the command above before running the script as stated in NB
+		- you will need to execute the code below to test the script
+			./101-clean_emacs
 
