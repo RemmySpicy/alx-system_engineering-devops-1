@@ -50,6 +50,12 @@ NB: Before running any scripts please execute the command below for each respect
 	7-movethatfile
 		- this script moves any file named betty in the tmp folder at the root to the folder called my_first_directory in tmp folder at the root
 		- run the command above before running the script as stated in NB
-		- you will need to eecute the code below to test the script
+		- you will need to execute the code below to test the script
 			./7-movethatfile
+
+	8-firstdelete
+		- this script will delete any file named betty in the my_first_directory folder in the tmp folder at the root
+		- run the command above before running the script as stated in NB
+		- you will need to execute the code below to test the script
+			./8-firstdelete
 
