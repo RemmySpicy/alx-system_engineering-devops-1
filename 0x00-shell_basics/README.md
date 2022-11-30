@@ -78,3 +78,9 @@ NB: Before running any scripts please execute the command below for each respect
 		- you will need to execute the code below to test the script
 			./11-lists
 
+	12-file_type
+		- this script will print the file type of a particular file called iamafile in the temp directory at the root
+		- run the command above before running the script as stated in NB
+		- you will need to execute the code below to test the script
+			./12-file_type
+
