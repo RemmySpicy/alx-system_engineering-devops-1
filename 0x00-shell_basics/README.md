@@ -87,6 +87,12 @@ NB: Before running any scripts please execute the command below for each respect
 	13-symbolic_link
 		- this script will create a symbolic link
 		- run the command above before running the script as stated in NB
-		- you will need to execute the code below to test the script
+		- you will need to execute the code below to test the script 
 			./13-symbolic_link
- 
+
+	14-copy_html
+		- this script will copy files that does not exist in the destination directory or files that have newer version than in the destination directory
+		- run the command above before running the script as stated in NB
+		- you will need to execute the code below to test the script
+			./14-copy_html
+
