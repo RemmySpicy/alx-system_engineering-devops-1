@@ -47,3 +47,9 @@ NB: Before running any scripts please execute the command below for each respect
 		- you will need to execute the code below to test the script
 			./6-firstdirectory
 
+	7-movethatfile
+		- this script moves any file named betty in the tmp folder at the root to the folder called my_first_directory in tmp folder at the root
+		- run the command above before running the script as stated in NB
+		- you will need to eecute the code below to test the script
+			./7-movethatfile
+
