@@ -59,3 +59,9 @@ NB: Before running any scripts please execute the command below for each respect
 		- you will need to execute the code below to test the script
 			./8-firstdelete
 
+	9-firstdirdeletion
+		- this script will delete any folder called my_first_directory in the tmp directory at the root
+		- run the command above before running the script as stated in NB
+		- you will need to execute the code below to test the script
+			./9-firstdirdeletion
+
