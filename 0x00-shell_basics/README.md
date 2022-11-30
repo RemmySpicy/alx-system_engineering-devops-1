@@ -41,3 +41,9 @@ NB: Before running any scripts please execute the command below for each respect
 		- you will need to execute the code below to test the script 
 			./5-listfilesdigitonly
 
+	6-firstdirectory
+		- this script creates a directory called my_first_directory in the tmp folder at the root 
+		- run the command above before running the script as stated in NB
+		- you will need to execute the code below to test the script
+			./6-firstdirectory
+
