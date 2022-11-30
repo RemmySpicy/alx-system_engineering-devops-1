@@ -84,3 +84,9 @@ NB: Before running any scripts please execute the command below for each respect
 		- you will need to execute the code below to test the script
 			./12-file_type
 
+	13-symbolic_link
+		- this script will create a symbolic link
+		- run the command above before running the script as stated in NB
+		- you will need to execute the code below to test the script
+			./13-symbolic_link
+ 
