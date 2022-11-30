@@ -1,6 +1,7 @@
 These are the list of scripts and what they do respectively
 
 NB: Before running any scripts please execute the command below for each respective scripts
+	
 	chmod u+x name_of_script
 		- for example: chmod u+x 1-listit
 	
@@ -21,4 +22,10 @@ NB: Before running any scripts please execute the command below for each respect
 		- run the command above before running the script as stated in NB
 		- you will need to execute the code below to test the script
 			./2-bring_me_home
+
+	3-listfiles
+		- this script list the files and directories in a long format
+		- run the command above before runing the script as stated in NB
+		- you will need to execute the code below to test the script
+			./3-listfiles
 
