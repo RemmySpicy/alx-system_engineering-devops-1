@@ -107,4 +107,10 @@ NB: Before running any scripts please execute the command below for each respect
 		- run the command above before running the script as stated in NB
 		- you will need to execute the code below to test the script
 			./101-clean_emacs
+	
+	102-tree
+		- this script will generate child, grand child and great grand child directories, welcome, to and school in that order
+		- run the command above before running the script as stated in NB
+		- you will need to execute the code below to test the script
+			./102-tree
 
