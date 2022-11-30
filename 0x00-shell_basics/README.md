@@ -96,3 +96,9 @@ NB: Before running any scripts please execute the command below for each respect
 		- you will need to execute the code below to test the script
 			./14-copy_html
 
+	100-lets_move
+		- this script will move all the files beginning with an uppercase letter to a folder called u in the tmp folder in the root 
+		- run the command above before running the script as staed in NB
+		- you will need to execute the code below to test the script
+			./100-lets_move
+
