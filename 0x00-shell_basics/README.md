@@ -68,6 +68,13 @@ NB: Before running any scripts please execute the command below for each respect
 	10-back
 		- this script will change the working directory to the previous one
 		- run the command above before running the script as stated in NB
-		- you will need to execute teh code below to test the script
+		- you will need to execute the code below to test the script
 			./10-back
+
+	11-lists
+		- this script will list the files in the current directory, parent directory of the currrent directory and also the boot directory at the root
+		  these lists will also include hidden files and the listed files will be in long format as well
+		- run the command above before running the script as stated in NB
+		- you will need to execute the code below to test the script
+			./11-lists
 
