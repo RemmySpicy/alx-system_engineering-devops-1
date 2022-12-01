@@ -30,3 +30,8 @@ NB: Before running any scripts please execute the command below for each respect
 		- you will need to execute the code below to test the script
 			./4-empty
 
+	5-execute
+		- this script will add execute permission to the owner of the file hello
+		- you will need to execute the code below to test the script
+			./5-execute
+
