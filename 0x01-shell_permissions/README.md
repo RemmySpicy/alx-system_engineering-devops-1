@@ -5,8 +5,13 @@ NB: Before running any scripts please execute the command below for each respect
 	chmod u+x name_of_script
 		- for example: chmod u+x 1-listit
 	
-	0-current_working_directory
+	0-iam_betty
 		- this script switches the current user to the user betty
 		- you will need to execute the code below to test the script
 			./0-iam_betty
+
+	1-who_am_i
+		- this script prints the effective username of the current user
+		- you will need to execute the code below to test the script
+			./1-who_am_i
 
