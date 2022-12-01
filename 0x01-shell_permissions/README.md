@@ -35,3 +35,8 @@ NB: Before running any scripts please execute the command below for each respect
 		- you will need to execute the code below to test the script
 			./5-execute
 
+	6-multiple_permissions
+		- this script will add execute permission to the owner and the group owner and read permission to other users to the file hello
+		- you will need to execute the code below to test the script
+			./6-multiple_permissions
+
