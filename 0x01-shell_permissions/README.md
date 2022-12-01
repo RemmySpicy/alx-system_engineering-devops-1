@@ -15,3 +15,8 @@ NB: Before running any scripts please execute the command below for each respect
 		- you will need to execute the code below to test the script
 			./1-who_am_i
 
+	2-groups
+		- this script prints all the groups the current user is part of
+		- you will need to execute the code below to test the script
+			./2-groups
+
