@@ -55,3 +55,8 @@ NB: Before running any scripts please execute the command below for each respect
 		- you will need to execute the code below to test the script
 			./9-John_Doe
 
+	10-mirror_permissions
+		- this script will set mode of an hello file to be the same olleh's mode
+		- you will need to execute the code below to test the script
+			./10-mirror_permissions
+
