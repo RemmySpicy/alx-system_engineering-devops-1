@@ -25,3 +25,8 @@ NB: Before running any scripts please execute the command below for each respect
 		- you will need to execute the code below to test the script 
 			./3-new_owner
 
+	4-empty
+		- this script will create an empty file called hello
+		- you will need to execute the code below to test the script
+			./4-empty
+
