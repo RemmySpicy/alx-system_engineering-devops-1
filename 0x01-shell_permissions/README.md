@@ -65,3 +65,8 @@ NB: Before running any scripts please execute the command below for each respect
 		- you will need to execute the code below to test the script
 			./11-directories_permissions
 
+	12-directory_permissions
+		- this script will create a directory my_dir with permissions 751
+		- you will need to execute the code below to test the script
+			./12-directory_permissions
+
