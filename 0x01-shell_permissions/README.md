@@ -70,3 +70,8 @@ NB: Before running any scripts please execute the command below for each respect
 		- you will need to execute the code below to test the script
 			./12-directory_permissions
 
+	13-change_group
+		- this script will change group owner of hello file to school
+		- you will need to execute the code below to test the script
+			./13-change_group
+
