@@ -20,3 +20,8 @@ NB: Before running any scripts please execute the command below for each respect
 		- you will need to execute the code below to test the script
 			./2-groups
 
+	3-new_owner
+		- this script will change the owner of the file hello to the user betty
+		- you will need to execute the code below to test the script 
+			./3-new_owner
+
