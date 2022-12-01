@@ -60,3 +60,8 @@ NB: Before running any scripts please execute the command below for each respect
 		- you will need to execute the code below to test the script
 			./10-mirror_permissions
 
+	11-directories_permissions
+		- this script will set permissions to only subdirectories 
+		- you will need to execute the code below to test the script
+			./11-directories_permissions
+
