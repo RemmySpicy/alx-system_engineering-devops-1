@@ -45,3 +45,13 @@ NB: Before running any scripts please execute the command below for each respect
 		- you will need to execute the code below to test the script
 			./7-everybody
 
+	8-James_Bond
+		- this script will add all the permission to only the others
+		- you will need to execute the code below to test the script
+			./8-James_Bond
+
+	9-John_Doe
+		- this script will add the permissions as specified
+		- you will need to execute the code below to test the script
+			./9-John_Doe
+
